@@ -1,0 +1,19 @@
+.company-headline {
+    background-color: lightgray;
+    font-family: fantasy;
+    font-style: italic;
+}
+
+body {
+    background-color:lightskyblue;
+}
+
+p {
+    width: 520px;
+    word-wrap: normal;
+}
+
+.saturn-spec {
+    color: purple;
+    font-family: sans-serif;
+}
